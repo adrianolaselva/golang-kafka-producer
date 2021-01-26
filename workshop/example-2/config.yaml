@@ -1,0 +1,7 @@
+bridges:
+  - topic: 'track-events-approved'
+    parameters:
+#      group.id: 'wg-workshop'
+      group.id: 'event-streamer-group_1'
+      bootstrap.servers: '127.0.0.1:9093'
+      auto.offset.reset: 'beginning'

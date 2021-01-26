@@ -5,3 +5,5 @@
 brew install librdkafka
 ```
 >Obs: Para utilizar integração com apache kafka no MACOS é necessário instalar a lib acima
+
+
